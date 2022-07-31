@@ -1,0 +1,21 @@
+p{
+    font-style: italic;
+    font-weight: bold;
+}
+ol{
+    font-weight: bold;
+    font-style: italic;
+}
+ul{
+        font-weight: bold;
+        font-style: italic;
+}
+
+h2{
+    font-weight: lighter;
+    text-decoration: underline;
+}
+h1{
+    font-weight: lighter;
+    text-decoration: underline;
+}
